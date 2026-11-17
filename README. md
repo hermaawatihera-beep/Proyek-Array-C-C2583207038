@@ -4,9 +4,9 @@
 
 | Keterangan   | Isi                                   |
 |--------------|---------------------------------------|
-| Nama Lengkap | [ISI NAMA LENGKAP]                    |
-| NIM          | [ISI NIM]                             |
-| Kelas        | [PTI3A / PTI3B]                       |
+| Nama Lengkap | [Hermawati]                    |
+| NIM          | [C2583207038]                             |
+| Kelas        | [PTI3B]                       |
 | Mata Kuliah  | Algoritma dan Pemrograman Lanjutan    |
 | Dosen        | Taofik Muhammad, M.Kom                |
 | Nama Proyek  | Sistem Monitoring Stok dan Penjualan Kantin Kampus |
@@ -106,7 +106,7 @@ Data awal: 6 produk.
 - **Hasil yang diharapkan:** Produk muncul dalam daftar.
 - **Keterangan:** Program menampilkan pesan `Produk "Ayam geprek" berhasil ditambahkan.` Pada daftar produk, Ayam geprek muncul sebagai nomor 7 dengan harga 8000 dan stok 40.
 
-![Skenario 1](screenshots/01-tambah-produk.png)
+![Skenario 1](screenshots/01-tambah-produk.png) 
 
 ### Skenario 2: Transaksi
 - **Input/Tindakan:** Menu 4, beli beberapa produk: Mie Ayam x 4, Air Mineral x 2, Ayam geprek x 3. Akhiri input dengan nomor produk 0, lalu konfirmasi `y`.
