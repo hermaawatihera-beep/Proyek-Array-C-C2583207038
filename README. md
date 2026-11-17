@@ -108,6 +108,7 @@ Data awal: 6 produk.
 
 ![Skenario 1](screenshots/01-tambah-produk.png) 
 
+
 ### Skenario 2: Transaksi
 - **Input/Tindakan:** Menu 4, beli beberapa produk: Mie Ayam x 4, Air Mineral x 2, Ayam geprek x 3. Akhiri input dengan nomor produk 0, lalu konfirmasi `y`.
 - **Hasil yang diharapkan:** Subtotal dan total benar.
